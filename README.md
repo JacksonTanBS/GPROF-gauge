@@ -6,6 +6,6 @@ The Python codes here allow anyone to perform the analysis described in the pape
 
 This code was run in Python 3.6.3. Other than the standard modules, it also requires numpy and h5py.
 
-Jackson Tan
-jackson.tan@nasa.gov
-2018 02 26
+Jackson Tan  
+jackson.tan@nasa.gov  
+2018 02 26  
